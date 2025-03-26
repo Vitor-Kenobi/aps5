@@ -27,7 +27,7 @@ To run EcoChat locally:
 <h3>Clone and run:</h3>
 ```bash git clone https://github.com/Vitor-Kenobi/aps5.git cd aps5 ``` 1. **Server**: Navigate to `src/api/` and run: ```bash dotnet run ``` 2. **Client**: Open the `Client` folder in Visual Studio and deploy to your target platform. 
 <h2>🤝 Contributors</h2>
-- **Diego Freire de Almeida** (N8059D2) - **Kaiky de Lara Sales** (N9218H8) - **Leonardo de Souza Rodrigues** (F344HB2) - **Nícolas Pimenta da Silva** (N863579) - **Vitor dos Santos Rosa** (G521CE3)
+I thank my teammates Leonardo and Kaiky for their exceptional collaboration in the research and structuring of this project, and my dear Nicolas and Diego for their brilliant support throughout the application's development process.
 
 Special thanks to our advisor, Prof. Ms. Rafael Gross, for his guidance.
 
